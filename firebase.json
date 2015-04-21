@@ -1,0 +1,9 @@
+{
+  "firebase": "partify",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
